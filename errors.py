@@ -1,0 +1,2 @@
+class SaldoInsulficienteError(RuntimeError):
+    pass
